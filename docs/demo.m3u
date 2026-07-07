@@ -1,0 +1,29 @@
+#EXTM3U
+# Anees TV — legal demo playlist (for store reviewers & screenshots).
+# Contains only public-domain and Creative Commons content, hosted by the
+# Internet Archive and the Blender Foundation. No copyrighted or premium
+# streams. Anees TV ships with NO playlist; this is provided for review only.
+
+#EXTINF:-1 group-title="Live Channels" tvg-name="Demo Live 1",Demo Live — Animation
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="Live Channels" tvg-name="Demo Live 2",Demo Live — Test Pattern
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 group-title="Live Channels" tvg-name="Public News",Public News (Tagesschau)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 group-title="Movies",Big Buck Bunny (2008)
+https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
+#EXTINF:-1 group-title="Movies",Sintel (2010)
+https://download.blender.org/durian/movies/Sintel.2010.720p.mkv
+#EXTINF:-1 group-title="Movies",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+#EXTINF:-1 group-title="Movies",Elephant's Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:-1 group-title="Movies",His Girl Friday (1940)
+https://archive.org/download/his_girl_friday/his_girl_friday.mp4
+#EXTINF:-1 group-title="Movies",Carnival of Souls (1962)
+https://archive.org/download/carnival_of_souls/carnival_of_souls_512kb.mp4
+#EXTINF:-1 group-title="Movies",House on Haunted Hill (1959)
+https://archive.org/download/house_on_haunted_hill/house_on_haunted_hill.mp4
+#EXTINF:-1 group-title="Movies",The Little Shop of Horrors (1960)
+https://archive.org/download/TheLittleShopOfHorrors1960/The-Little-Shop-of-Horrors_512kb.mp4
