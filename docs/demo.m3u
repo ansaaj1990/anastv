@@ -8,13 +8,13 @@
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="Live Channels" tvg-name="Demo Live 2",Demo Live — Test Pattern
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
-#EXTINF:-1 group-title="Live Channels" tvg-name="Public News",Public News (Tagesschau)
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Live Channels" tvg-name="Demo Live 3",Demo Live — Open Movie (CC)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 group-title="Movies",Big Buck Bunny (2008)
-https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
 #EXTINF:-1 group-title="Movies",Sintel (2010)
-https://download.blender.org/durian/movies/Sintel.2010.720p.mkv
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
 #EXTINF:-1 group-title="Movies",Tears of Steel (2012)
 https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
 #EXTINF:-1 group-title="Movies",Elephant's Dream (2006)
